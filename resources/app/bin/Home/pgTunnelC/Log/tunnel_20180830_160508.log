@@ -1,0 +1,69 @@
+2018-08-30,16:05:08: Tunnel::Initialize: Version=1.32.9.51
+2018-08-30,16:05:08: SocketProc::Initialize, success
+2018-08-30,16:05:08: Socket::Initialize, success
+2018-08-30,16:05:08: ClassPeer: Initialize begin
+2018-08-30,16:05:08: ClassPeer: Initialize success
+2018-08-30,16:05:08: Node: Initialize: success
+2018-08-30,16:05:08: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-08-30,16:05:08: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=6
+2018-08-30,16:05:08: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-08-30,16:05:08: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=0
+2018-08-30,16:05:08: Tunnel::Initialize: Version=1.32.9.51
+2018-08-30,16:05:08: Tunnel::MsgLoginReply. Param=(Direct){0}
+2018-08-30,16:05:08: Tunnel::CallReplyGetTunnelList: Tunnel number: 4
+2018-08-30,16:05:08: SocketProc::Initialize, success
+2018-08-30,16:05:08: Socket::Initialize, success
+2018-08-30,16:05:08: ClassPeer: Initialize begin
+2018-08-30,16:05:08: ClassPeer: Initialize success
+2018-08-30,16:05:08: Node: Initialize: success
+2018-08-30,16:05:08: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-08-30,16:05:08: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=6
+2018-08-30,16:05:08: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-08-30,16:05:08: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=0
+2018-08-30,16:05:08: Tunnel::MsgKickOut. uParam=0
+2018-08-30,16:05:08: Kick out by server. Param=0
+2018-08-30,16:05:08: TunnelNode: OnExtRequest: Server unsync at objself.
+2018-08-30,16:05:09: Node: clean, begin
+2018-08-30,16:05:09: DispProc: Disable, exist
+2018-08-30,16:05:09: Socket: clean, begin
+2018-08-30,16:05:09: SocketProc::Clean, Begin
+2018-08-30,16:05:09: SocketProc::Clean, finish
+2018-08-30,16:05:09: Socket: clean, finish
+2018-08-30,16:05:09: Node: clean, finish
+2018-08-30,16:05:09: Node: clean, begin
+2018-08-30,16:05:09: Socket: clean, begin
+2018-08-30,16:05:09: SocketProc::Clean, Begin
+2018-08-30,16:05:09: SocketProc::Clean, finish
+2018-08-30,16:05:09: Socket: clean, finish
+2018-08-30,16:05:09: Node: clean, finish
+2018-08-30,16:05:09: Tunnel::MsgLoginReply. Param=(Direct){0}
+2018-08-30,16:05:09: Tunnel::CallReplyGetTunnelList: Tunnel number: 4
+2018-08-30,16:06:08: SocketProc::Initialize, success
+2018-08-30,16:06:08: Socket::Initialize, success
+2018-08-30,16:06:08: ClassPeer: Initialize begin
+2018-08-30,16:06:08: ClassPeer: Initialize success
+2018-08-30,16:06:08: Node: Initialize: success
+2018-08-30,16:06:08: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-08-30,16:06:08: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=6
+2018-08-30,16:06:08: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-08-30,16:06:08: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=0
+2018-08-30,16:06:08: Tunnel::MsgKickOut. uParam=0
+2018-08-30,16:06:08: Kick out by server. Param=0
+2018-08-30,16:06:08: TunnelNode: OnExtRequest: Server unsync at objself.
+2018-08-30,16:06:08: Tunnel::MsgLoginReply. Param=(Direct){0}
+2018-08-30,16:06:08: Tunnel::CallReplyGetTunnelList: Tunnel number: 4
+2018-08-30,16:06:08: Node: clean, begin
+2018-08-30,16:06:08: DispProc: Disable, exist
+2018-08-30,16:06:08: Socket: clean, begin
+2018-08-30,16:06:08: SocketProc::Clean, Begin
+2018-08-30,16:06:08: SocketProc::Clean, finish
+2018-08-30,16:06:08: Socket: clean, finish
+2018-08-30,16:06:08: Node: clean, finish
+2018-08-30,16:06:08: Node: clean, begin
+2018-08-30,16:06:08: Socket: clean, begin
+2018-08-30,16:06:08: SocketProc::Clean, Begin
+2018-08-30,16:06:08: SocketProc::Clean, finish
+2018-08-30,16:06:08: Socket: clean, finish
+2018-08-30,16:06:08: Node: clean, finish
+2018-08-30,16:06:52: Tunnel::TcpSessFileReply, uErrCode=0
+2018-08-30,16:06:52: Tunnel::TcpSessFileReply, uErrCode=0

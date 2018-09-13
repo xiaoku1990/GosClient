@@ -1,0 +1,84 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+/*up*/
+#up{
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    border:1px solid red;
+    position: absolute;
+    right: 20px;
+    bottom:205px;
+    z-index: 2010;
+    /*background-image: url("./src/assets/images/img/up.png");*/
+    display: none;
+}
+#up img{
+    width: 35px;
+    height: 35px;
+}
+/*down*/
+#down{
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    border:1px solid red;
+    position: absolute;
+    right: 20px;
+    bottom:135px;
+    z-index: 2010;
+    display: none;
+}
+#down img{
+    width: 35px;
+    height: 35px;
+}
+/*floor*/
+#floor{
+    width: 33px;
+    height: 35px;
+    /*border:1px solid black;*/
+    border-left:1px solid #4D4D4D;
+    border-right:1px solid #4D4D4D;
+    position: absolute;
+    right: 20px;
+    bottom:170px;
+    /*overflow-y: auto;*/
+    overflow: hidden;
+    /*background: rgba(0,0,0,0.1);*/
+    z-index: 2010;
+    display: none;
+}
+#floorUl{
+    width: 35px;
+    /*height: 105px;*/
+    /*border:1px solid green;*/
+    overflow-y: auto;
+    position: absolute;
+}
+#floorUl li{
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    /*border:1px solid white;*/
+    text-align: center;
+    list-style: none;
+}
+#map{
+  /*border:1px solid #ff0000;
+  width: 70%;
+  !*margin: 20px auto;*!
+  height: calc(100% - 40px);
+  display: inline-block;*/
+}
+#BeefindMap{
+  border:1px solid #00FF00;
+  width: 70%;
+  /*margin: 20px auto;*/
+  height: calc(100% - 40px);
+  display: inline-block;
+}

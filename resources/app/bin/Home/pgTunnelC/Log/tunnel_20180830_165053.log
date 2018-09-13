@@ -1,0 +1,40 @@
+2018-08-30,16:50:53: Tunnel::Initialize: Version=1.32.9.51
+2018-08-30,16:50:53: Tunnel::Initialize: Version=1.32.9.51
+2018-08-30,16:50:53: SocketProc::Initialize, success
+2018-08-30,16:50:53: Socket::Initialize, success
+2018-08-30,16:50:53: ClassPeer: Initialize begin
+2018-08-30,16:50:53: ClassPeer: Initialize success
+2018-08-30,16:50:53: Node: Initialize: success
+2018-08-30,16:50:53: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-08-30,16:50:53: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=6
+2018-08-30,16:50:53: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-08-30,16:50:53: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=0
+2018-08-30,16:50:53: SocketProc::Initialize, success
+2018-08-30,16:50:53: Socket::Initialize, success
+2018-08-30,16:50:53: ClassPeer: Initialize begin
+2018-08-30,16:50:53: ClassPeer: Initialize success
+2018-08-30,16:50:53: Node: Initialize: success
+2018-08-30,16:50:53: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-08-30,16:50:53: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=6
+2018-08-30,16:50:53: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-08-30,16:50:53: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=0
+2018-08-30,16:50:53: Tunnel::MsgLoginReply. Param=(Direct){0}
+2018-08-30,16:50:54: Tunnel::CallReplyGetTunnelList: Tunnel number: 4
+2018-08-30,16:50:54: Tunnel::MsgKickOut. uParam=0
+2018-08-30,16:50:54: Kick out by server. Param=0
+2018-08-30,16:50:54: TunnelNode: OnExtRequest: Server unsync at objself.
+2018-08-30,16:50:54: Tunnel::MsgLoginReply. Param=(Direct){0}
+2018-08-30,16:50:54: Tunnel::CallReplyGetTunnelList: Tunnel number: 4
+2018-08-30,16:50:54: Node: clean, begin
+2018-08-30,16:50:54: DispProc: Disable, exist
+2018-08-30,16:50:54: Socket: clean, begin
+2018-08-30,16:50:54: SocketProc::Clean, Begin
+2018-08-30,16:50:54: SocketProc::Clean, finish
+2018-08-30,16:50:54: Socket: clean, finish
+2018-08-30,16:50:54: Node: clean, finish
+2018-08-30,16:50:54: Node: clean, begin
+2018-08-30,16:50:54: Socket: clean, begin
+2018-08-30,16:50:54: SocketProc::Clean, Begin
+2018-08-30,16:50:54: SocketProc::Clean, finish
+2018-08-30,16:50:54: Socket: clean, finish
+2018-08-30,16:50:54: Node: clean, finish

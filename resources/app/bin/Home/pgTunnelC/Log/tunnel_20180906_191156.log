@@ -1,0 +1,77 @@
+2018-09-06,19:11:56: Tunnel::Initialize: Version=1.32.9.51
+2018-09-06,19:11:56: Tunnel::Initialize: Version=1.32.9.51
+2018-09-06,19:11:56: SocketProc::Initialize, success
+2018-09-06,19:11:56: Socket::Initialize, success
+2018-09-06,19:11:56: ClassPeer: Initialize begin
+2018-09-06,19:11:56: ClassPeer: Initialize success
+2018-09-06,19:11:56: Node: Initialize: success
+cess
+2018-09-06,19:11:56: Socket::Initialize, success
+2018-09-06,19:11:56: ClassPeer: Initialize begin
+2018-09-06,19:11:56: ClassPeer: Initialize success
+2018-09-06,19:11:56: Node: Initialize: success
+2018-09-06,19:11:56: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-09-06,19:11:56: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=6
+2018-09-06,19:11:56: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-09-06,19:11:56: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=0
+2018-09-06,19:11:56: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-09-06,19:11:56: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=6
+2018-09-06,19:11:56: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-09-06,19:11:56: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=0
+2018-09-06,19:11:56: Tunnel::MsgLoginReply. Param=(Direct){0}
+2018-09-06,19:11:56: Tunnel::MsgKickOut. uParam=0
+2018-09-06,19:11:56: Kick out by server. Param=0
+2018-09-06,19:11:56: TunnelNode: OnExtRequest: Server unsync at objself.
+2018-09-06,19:11:56: Tunnel::CallReplyGetTunnelList: Tunnel number: 4
+2018-09-06,19:11:56: Node: clean, begin
+2018-09-06,19:11:56: DispProc: Disable, exist
+2018-09-06,19:11:56: Socket: clean, begin
+2018-09-06,19:11:56: SocketProc::Clean, Begin
+2018-09-06,19:11:56: SocketProc::Clean, finish
+2018-09-06,19:11:56: Socket: clean, finish
+2018-09-06,19:11:56: Node: clean, finish
+2018-09-06,19:11:56: Node: clean, begin
+2018-09-06,19:11:56: Socket: clean, begin
+2018-09-06,19:11:56: SocketProc::Clean, Begin
+2018-09-06,19:11:56: SocketProc::Clean, finish
+2018-09-06,19:11:56: Socket: clean, finish
+2018-09-06,19:11:56: Node: clean, finish
+2018-09-06,19:12:56: SocketProc::Initialize, success
+2018-09-06,19:12:56: Socket::Initialize, success
+2018-09-06,19:12:56: ClassPeer: Initialize begin
+2018-09-06,19:12:56: ClassPeer: Initialize success
+2018-09-06,19:12:56: Node: Initialize: success
+2018-09-06,19:12:56: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-09-06,19:12:56: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=6
+2018-09-06,19:12:56: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-09-06,19:12:56: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=0
+2018-09-06,19:12:56: Tunnel::MsgKickOut. uParam=0
+2018-09-06,19:12:56: Kick out by server. Param=0
+2018-09-06,19:12:56: Tunnel::MsgLoginReply. Param=(Direct){0}
+2018-09-06,19:12:56: Tunnel::CallReplyGetTunnelList: Tunnel number: 4
+2018-09-06,19:12:56: Node: clean, begin
+2018-09-06,19:12:56: DispProc: Disable, exist
+2018-09-06,19:12:56: Socket: clean, begin
+2018-09-06,19:12:56: SocketProc::Clean, Begin
+2018-09-06,19:12:56: SocketProc::Clean, finish
+2018-09-06,19:12:56: Socket: clean, finish
+2018-09-06,19:12:56: Node: clean, finish
+2018-09-06,19:12:56: Node: clean, begin
+2018-09-06,19:12:56: Socket: clean, begin
+2018-09-06,19:12:56: SocketProc::Clean, Begin
+2018-09-06,19:12:56: SocketProc::Clean, finish
+2018-09-06,19:12:56: Socket: clean, finish
+2018-09-06,19:12:56: Node: clean, finish
+2018-09-06,19:13:56: SocketProc::Initialize, success
+2018-09-06,19:13:56: Socket::Initialize, success
+2018-09-06,19:13:56: ClassPeer: Initialize begin
+2018-09-06,19:13:56: ClassPeer: Initialize success
+2018-09-06,19:13:56: Node: Initialize: success
+2018-09-06,19:13:56: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-09-06,19:13:56: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=6
+2018-09-06,19:13:56: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-09-06,19:13:56: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=0
+2018-09-06,19:13:56: Tunnel::MsgKickOut. uParam=0
+2018-09-06,19:13:56: Kick out by server. Param=0
+2018-09-06,19:13:56: Tunnel::MsgLoginReply. Param=(Direct){0}
+2018-09-06,19:13:56: Tunnel::CallReplyGetTunnelList: Tunnel number: 4

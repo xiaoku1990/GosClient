@@ -1,0 +1,61 @@
+2018-09-06,19:14:32: Tunnel::Initialize: Version=1.32.9.51
+2018-09-06,19:14:32: Tunnel::Initialize: Version=1.32.9.51
+2018-09-06,19:14:32: SocketProc::Initialize, success
+2018-09-06,19:14:32: Socket::Initialize, success
+2018-09-06,19:14:32: ClassPeer: Initialize begin
+2018-09-06,19:14:32: ClassPeer: Initialize success
+2018-09-06,19:14:32: Node: Initialize: success
+2018-09-06,19:14:32: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-09-06,19:14:32: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=6
+2018-09-06,19:14:32: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-09-06,19:14:32: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=0
+2018-09-06,19:14:32: SocketProc::Initialize, success
+2018-09-06,19:14:32: Socket::Initialize, success
+2018-09-06,19:14:32: ClassPeer: Initialize begin
+2018-09-06,19:14:32: ClassPeer: Initialize success
+2018-09-06,19:14:32: Node: Initialize: success
+2018-09-06,19:14:32: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-09-06,19:14:32: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=6
+2018-09-06,19:14:32: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-09-06,19:14:32: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=0
+2018-09-06,19:14:32: Tunnel::MsgLoginReply. Param=(Direct){0}
+2018-09-06,19:14:32: TunnelNode: OnExtRequest: Server unsync at objself.
+2018-09-06,19:14:32: Tunnel::MsgLoginReply. Param=(Direct){0}
+2018-09-06,19:14:32: Tunnel::CallReplyGetTunnelList: Tunnel number: 4
+2018-09-06,19:15:35: CPGClassPeer, ReLogin request. User=_DEV_C180015@beefind.com, iErr=-1
+2018-09-06,19:15:35: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-09-06,19:15:35: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=0
+2018-09-06,19:15:35: TunnelNode: OnExtRequest: Server unsync at objself.
+2018-09-06,19:15:35: Tunnel::MsgReloginReply. Param=(Direct){0}
+2018-09-06,19:15:35: Tunnel::CallReplyGetTunnelList: Tunnel number: 4
+2018-09-06,19:16:02: Tunnel::CallReplyGetTunnelList: Tunnel number: 4
+2018-09-06,19:16:12: CPGClassPeer, ReLogin request. User=_DEV_C180015@beefind.com, iErr=-1
+2018-09-06,19:16:12: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-09-06,19:16:12: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=0
+2018-09-06,19:16:13: TunnelNode: OnExtRequest: Server unsync at objself.
+2018-09-06,19:16:13: Tunnel::MsgReloginReply. Param=(Direct){0}
+2018-09-06,19:16:13: Tunnel::CallReplyGetTunnelList: Tunnel number: 4
+2018-09-06,19:17:05: CPGClassPeer, ReLogin request. User=_DEV_C180015@beefind.com, iErr=-1
+2018-09-06,19:17:05: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-09-06,19:17:05: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=0
+2018-09-06,19:17:05: TunnelNode: OnExtRequest: Server unsync at objself.
+2018-09-06,19:17:05: Tunnel::MsgReloginReply. Param=(Direct){0}
+2018-09-06,19:17:05: Tunnel::CallReplyGetTunnelList: Tunnel number: 4
+2018-09-06,19:18:05: CPGClassPeer, ReLogin request. User=_DEV_C180015@beefind.com, iErr=-1
+2018-09-06,19:18:05: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-09-06,19:18:05: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=0
+2018-09-06,19:18:05: TunnelNode: OnExtRequest: Server unsync at objself.
+2018-09-06,19:18:05: Tunnel::MsgReloginReply. Param=(Direct){0}
+2018-09-06,19:18:05: Tunnel::CallReplyGetTunnelList: Tunnel number: 4
+2018-09-06,19:19:05: CPGClassPeer, ReLogin request. User=_DEV_C180015@beefind.com, iErr=-1
+2018-09-06,19:19:05: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-09-06,19:19:05: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=0
+2018-09-06,19:19:05: TunnelNode: OnExtRequest: Server unsync at objself.
+2018-09-06,19:19:05: Tunnel::MsgReloginReply. Param=(Direct){0}
+2018-09-06,19:19:05: Tunnel::CallReplyGetTunnelList: Tunnel number: 4
+2018-09-06,19:20:05: CPGClassPeer, ReLogin request. User=_DEV_C180015@beefind.com, iErr=-1
+2018-09-06,19:20:05: pgSelectAddr: Addr=192.168.0.56:0, AddrProxy=101.132.144.102:7885, Res=1
+2018-09-06,19:20:05: SocketProc::HelperSetLocalAddr, Set local address: 192.168.0.56:0, uAddrType=0
+2018-09-06,19:20:05: TunnelNode: OnExtRequest: Server unsync at objself.
+2018-09-06,19:20:05: Tunnel::MsgReloginReply. Param=(Direct){0}
+2018-09-06,19:20:05: Tunnel::CallReplyGetTunnelList: Tunnel number: 4
